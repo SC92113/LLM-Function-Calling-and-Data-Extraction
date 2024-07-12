@@ -25,6 +25,6 @@
 - **Function calling use cases**
   - Use case 1: execute a task
   - Use case 2: extract structured data from unstructured data
-  - Use case 3: retrieve the most current data from web to self-learn and update
+  - Use case 3: extract the most current data from web to self-learn and update
   - Use case 4: retrieve insights from internal database
   - Use case 5: generate valid JSON file
