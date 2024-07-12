@@ -11,10 +11,13 @@
   - Parallel function falling
   - Nested function falling
   - No call
+
 - **Function calling with API interfacing**
+
 - **Structured extraction**
   - Simple method
   - Data class method
+
 - **Function calling use cases**
   - Use case 1: execute a task
   - Use case 2: extract structured data from unstructured data
