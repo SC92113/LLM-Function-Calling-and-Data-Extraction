@@ -3,7 +3,7 @@
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [Nexusflow](https://nexusflow.ai/).
 
 ### 🎯 Goal
-- Build a Dialogue Feature Extraction System
+- Build a Dialogue feature extraction system
 
 ### 💡 Key concepts are included and applied in the project.
 
