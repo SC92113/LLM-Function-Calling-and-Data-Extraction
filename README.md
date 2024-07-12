@@ -1,9 +1,11 @@
 # LLM-Function-Calling-and-Data-Extraction
 
-🛠️ This project is supported by DeepLearning.AI and Nexusflow.
-- 
+### 🛠️ This project is supported by DeepLearning.AI and Nexusflow.
 
-💡 Key concepts are included and applied in the project.
+### 🎯 Goal
+- Build a Dialogue Feature Extraction System
+
+### 💡 Key concepts are included and applied in the project.
 
 - **Function calling**
   - Single function falling
