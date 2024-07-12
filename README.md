@@ -16,8 +16,8 @@
   - Simple method
   - Data class method
 - **Function calling use cases**
-  - condition 1: execute a task
-  - condition 2: extract structured data from unstructured data
-  - condition 3: retrieve the most current data from web to self-learn and update
-  - condition 4: retrieve insights from internal database
-  - condition 5: generate valid JSON file
+  - Use case 1: execute a task
+  - Use case 2: extract structured data from unstructured data
+  - Use case 3: retrieve the most current data from web to self-learn and update
+  - Use case 4: retrieve insights from internal database
+  - Use case 5: generate valid JSON file
