@@ -12,7 +12,9 @@
   - Nested function falling
   - No call
 
-- **Function calling with API interfacing**
+- **Function calling with external tools**
+  - API interfacing
+  - Internal Python tool
 
 - **Structured extraction**
   - Simple method
