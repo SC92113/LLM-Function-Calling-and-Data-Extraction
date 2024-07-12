@@ -8,10 +8,10 @@
 ### 💡 Key concepts are included and applied in the project.
 
 - **Function calling**
-  - Single function falling
-  - Multiple function falling
-  - Parallel function falling
-  - Nested function falling
+  - Single function calling
+  - Multiple function calling
+  - Parallel function calling
+  - Nested function calling
   - No call
 
 - **Function calling with external tools**
