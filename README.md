@@ -5,7 +5,7 @@
 ### 🎯 Goal
 - Build a Dialogue Data Extraction System
 
-### 💡 Key concepts are included and applied in the project.
+### 💡 Key concepts in the project
 
 - **Function calling**
   - Single function calling
