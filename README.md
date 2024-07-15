@@ -11,7 +11,8 @@
     - Defining tools to populate the database
     - Building tools to retrieve information out
   - Part 2 - Building the whole extraction system
-
+- **Dataset on Hugging Face 🤗: [SantiagoPG/customer_service_chatbot](https://huggingface.co/datasets/SantiagoPG/customer_service_chatbot)**
+ 
 ### 💡 Key concepts in the project
 
 - **Function calling**
