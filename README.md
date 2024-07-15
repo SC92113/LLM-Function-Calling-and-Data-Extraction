@@ -3,7 +3,14 @@
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [Nexusflow](https://nexusflow.ai/).
 
 ### 🎯 Goal
-- Build a Dialogue Data Extraction System
+- **Build a Dialogue Data Extraction System**
+
+  - Part 1 - Process breakdown
+    - Defining required data to be extracted
+    - Building database to store extracted data
+    - Defining tools to populate the database
+    - Building tools to retrieve information out
+  - Part 2 - Building the whole extraction system
 
 ### 💡 Key concepts in the project
 
