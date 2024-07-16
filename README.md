@@ -11,7 +11,6 @@
     - Defining tools to populate the database
     - Building tools to retrieve information out
   - Part 2 - Building the whole extraction system
-- **Dataset on Hugging Face 🤗: [SantiagoPG/customer_service_chatbot](https://huggingface.co/datasets/SantiagoPG/customer_service_chatbot)**
  
 ### 💡 Key concepts in the project
 
@@ -35,3 +34,7 @@
   - Use case 2: extract the most current data from web to self-learn and update
   - Use case 3: retrieve insights from internal database
   - Use case 4: generate valid JSON file
+
+### Remarks
+- Dataset on Hugging Face 🤗: [SantiagoPG/customer_service_chatbot](https://huggingface.co/datasets/SantiagoPG/customer_service_chatbot)
+- NexusRaven-V2 is used to proceed the function calling, which is from [Nexusflow](https://nexusflow.ai/)
