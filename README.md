@@ -37,4 +37,4 @@
 
 ### 💬 Remarks
 - Dataset on Hugging Face 🤗: [SantiagoPG/customer_service_chatbot](https://huggingface.co/datasets/SantiagoPG/customer_service_chatbot)
-- NexusRaven-V2 is used to proceed the function calling, which is from [Nexusflow](https://nexusflow.ai/)
+- NexusRaven-V2 is used to proceed the function calling, which is from [Nexusflow](https://nexusflow.ai/).
