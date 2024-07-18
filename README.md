@@ -11,7 +11,8 @@
     - Defining tools to populate the database
     - Building tools to retrieve information out
   - Part 2 - Building the whole extraction system
- 
+- **Quick access to notebook**: [Dialogue_Data_Extraction_System.ipynb](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction/blob/0e4aa0aae58ab667803145f37019a46b6e70eba7/Dialogue_Data_Extraction_System.ipynb)
+
 ### 💡 Key concepts in the project
 
 - **Function calling**
