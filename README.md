@@ -2,6 +2,15 @@
 
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [Nexusflow](https://nexusflow.ai/).
 
+## ☰ Table of Contents
+- [Goal](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#-goal)
+- [Key concepts in the project](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#-key-concepts-in-the-project)
+  - [Function calling](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#function-calling)
+  - [Function calling with external tools](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#function-calling-with-external-tools)
+  - [Structured extraction](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#function-calling-with-external-tools)
+  - [Function calling use cases](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#function-calling-use-cases)
+- [References](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#-references)
+
 ## 🎯 Goal
 - ### Build a Dialogue Data Extraction System
 
