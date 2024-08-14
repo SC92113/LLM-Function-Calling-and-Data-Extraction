@@ -1,7 +1,5 @@
 # LLM-Function-Calling-and-Data-Extraction
 
-### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [Nexusflow](https://nexusflow.ai/).
-
 ## ☰ Table of Contents
 - [Goal](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#-goal)
 - [Key concepts in the project](https://github.com/SC92113/LLM-Function-Calling-and-Data-Extraction?tab=readme-ov-file#-key-concepts-in-the-project)
@@ -48,3 +46,5 @@
 ## 📚 References
 - Dataset on Hugging Face: [SantiagoPG/customer_service_chatbot](https://huggingface.co/datasets/SantiagoPG/customer_service_chatbot)
 - NexusRaven-V2 is used to proceed the function calling, which is from [Nexusflow](https://nexusflow.ai/).
+
+## 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [Nexusflow](https://nexusflow.ai/).
